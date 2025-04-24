@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+redis
+
+fastapi
+uvicorn
+redis
+python-multipart
+websockets
+aioredis
